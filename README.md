@@ -1,4 +1,4 @@
-# 2.9-Assignment-6
+# morseCodeConverter
 Write a modular program (with functions) that creates a file containing the Morse code equivalent of the input file. The input file will contain only uppercase letters, spaces, periods, and newlines. The code for each letter in the output file will be followed by a space. Spaces, newlines, and periods in the input file will be written to the output file as-is.
 
 The user must be allowed to enter the name of the input file and the name of the output file. Be sure you include a prompt asking the user to enter the name of the input file and another prompt asking the user to enter the name of the output file.
