@@ -26,57 +26,34 @@ The following is a valid prototype for the function specified:
 
 Each line of the file morseLetters.txt contains a letter followed by a tab and then the Morse code for the letter (a sequence of dots and/or dashes). The first line is for A, the second for B,… .
 
-`A    .-`
-
-`B    -...`
-
-`C    -.-.`
-
-`D    -..`
-
-`E    .`
-
-`F    ..-.`
-
-`G    --.`
-
-`H    ....`
-
-`I    ..`
-
-`J    .---`
-
-`K    -.-`
-
-`L    .-..`
-
-`M    --`
-
-`N    -.`
-
-`O    ---`
-
-`P    .--.`
-
-`Q    --.-`
-
-`R    .-.`
-
-`S    ...`
-
-`T    -`
-
-`U    ..-`
-
-`V    ...-`
-
-`W    .--`
-
-`X    -..-`
-
-`Y    -.--`
-
-`Z    --..`
+```
+A    .-
+B    -...
+C    -.-.
+D    -..
+E    .
+F    ..-.
+G    --.
+H    ....
+I    ..
+J    .---
+K    -.-
+L    .-..
+M    --
+N    -.
+O    ---
+P    .--.
+Q    --.-
+R    .-.
+S    ...
+T    -
+U    ..-
+V    ...-
+W    .--
+X    -..-
+Y    -.--
+Z    --..
+```
 
 Note: there are two files available for you to download, Mac_morseLetters.txt and Windows_morseLetters.txt. The difference is in the newline representation used. These can be used for testing your code in your IDE. When submitting, zylabs will use a file called morseLetters.txt, so make sure to use "morseLetters.txt" as your filename when opening in your code.
 
